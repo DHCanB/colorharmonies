@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from setuptools import setup
 
-setup(name='colorharmonies',
+setup(name='test',
       version='1.0',
       description='Library to generate all your color harmonies with simplicity!',
       classifiers=[
@@ -15,7 +15,7 @@ setup(name='colorharmonies',
       author=' ',
       author_email=' ',
       license='MIT',
-      packages=['colorharmonies'],
+      packages=['test'],
       python_requires='>=3',
       test_suite='nose.collector',
       tests_require=['nose'],
